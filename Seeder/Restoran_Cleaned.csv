@@ -1,0 +1,1001 @@
+restoranid,naziv,kapacitet,radnovrijeme,JelovnikID,gradid
+1,Terry Inc,29,8:29 AM,5,3
+2,Mante and Sons,28,10:01 PM,4,5
+3,Auer-Johnston,5,7:10 AM,9,5
+4,Greenfelder LLC,23,5:45 PM,3,3
+5,Muller Inc,6,10:53 PM,6,2
+6,Schoen-Block,19,2:11 PM,5,3
+7,Kirlin LLC,29,8:26 AM,3,4
+8,Greenholt-Pouros,29,8:00 AM,10,2
+9,Berge-Satterfield,11,10:59 PM,7,1
+10,"Hamill, Tremblay and Dietrich",30,4:02 PM,10,5
+11,"Quigley, Bashirian and Roob",30,2:37 PM,5,1
+12,"Mann, Boyer and Kuvalis",26,12:42 PM,7,2
+13,"Mueller, Gusikowski and Lindgren",12,4:45 PM,5,1
+14,DuBuque-Labadie,19,12:24 PM,10,3
+15,Kutch LLC,15,5:07 PM,4,4
+16,Smith-Hills,10,7:57 PM,7,3
+17,Stamm Group,23,1:18 PM,4,5
+18,"Cremin, Robel and Marquardt",14,7:25 PM,1,3
+19,Botsford-Zboncak,7,3:37 PM,7,1
+20,Ullrich-Abernathy,18,4:28 PM,3,3
+21,Jerde Inc,19,4:00 PM,6,3
+22,Ledner-McLaughlin,17,1:14 PM,9,1
+23,Wisoky-Leffler,25,10:02 PM,6,4
+24,Senger Group,26,2:54 PM,7,4
+25,Jenkins Group,28,11:20 AM,8,3
+26,Simonis-Murphy,18,1:23 PM,3,2
+27,Morissette-Stamm,25,7:18 PM,7,1
+28,Keebler-Stracke,15,1:55 PM,3,1
+29,"Hahn, Swift and D'Amore",24,9:28 AM,9,1
+30,"Bernhard, Steuber and Lebsack",23,1:50 PM,8,3
+31,Gottlieb-Koelpin,29,8:07 PM,2,3
+32,Davis LLC,19,4:44 PM,7,2
+33,"West, Conn and Crist",21,8:41 PM,5,4
+34,Shanahan-Welch,18,12:02 PM,1,5
+35,"Wintheiser, Corkery and Davis",12,4:50 PM,3,2
+36,Murazik LLC,26,9:23 PM,3,4
+37,Smitham and Sons,9,4:43 PM,7,2
+38,Nader and Sons,22,10:41 PM,8,4
+39,Feest LLC,20,1:54 PM,2,2
+40,Conroy Inc,12,3:22 PM,6,2
+41,Hyatt-Gleichner,30,8:48 PM,3,1
+42,Heller LLC,6,9:44 AM,9,5
+43,"Farrell, Bahringer and Pouros",8,9:36 AM,9,1
+44,Howell-Watsica,26,5:37 PM,5,1
+45,Schuppe LLC,30,5:01 PM,4,5
+46,Miller Group,8,9:08 AM,5,1
+47,Swaniawski-Kessler,13,5:13 PM,10,2
+48,"Champlin, O'Conner and Reichel",30,8:41 AM,4,4
+49,"Fahey, Zieme and Spencer",8,1:52 PM,8,5
+50,Sawayn LLC,24,3:06 PM,2,2
+51,Hermann LLC,8,9:32 PM,8,3
+52,"Vandervort, Corkery and Runolfsdottir",21,6:14 PM,5,1
+53,"Kirlin, Kshlerin and Conn",8,9:18 AM,8,4
+54,"Gottlieb, Quitzon and Orn",10,1:39 PM,6,4
+55,Morissette-Mante,18,9:44 AM,6,5
+56,DuBuque Group,13,9:27 PM,1,2
+57,Block-Kozey,30,11:22 AM,3,1
+58,"Littel, Langworth and Hudson",8,9:20 PM,3,4
+59,Hagenes-Kihn,6,10:26 PM,1,1
+60,Lindgren Group,22,2:22 PM,4,4
+61,"O'Hara, Barrows and Casper",24,4:07 PM,9,2
+62,"Hettinger, Corwin and Roberts",15,7:59 PM,1,3
+63,Gerlach-Runte,6,9:47 AM,3,2
+64,Quigley Group,7,10:45 PM,8,4
+65,Auer-Wintheiser,9,7:57 AM,1,3
+66,Hyatt-Kilback,19,9:24 PM,3,5
+67,Hane and Sons,30,8:24 PM,2,5
+68,Jacobs Inc,13,9:17 AM,3,2
+69,"Dibbert, Schumm and Konopelski",5,1:32 PM,8,5
+70,McLaughlin-Kemmer,20,3:55 PM,4,1
+71,Boehm-Fisher,16,7:54 AM,9,2
+72,Pfannerstill and Sons,12,7:40 AM,5,4
+73,"Jaskolski, Jast and O'Keefe",21,10:42 AM,2,3
+74,Keeling LLC,20,12:17 PM,6,4
+75,Jaskolski Inc,30,2:11 PM,4,2
+76,Erdman LLC,20,8:51 PM,5,3
+77,Murazik LLC,21,10:02 PM,7,2
+78,"Homenick, Schulist and Kuhn",19,6:38 PM,6,4
+79,Krajcik and Sons,5,2:50 PM,6,2
+80,"Brekke, Smith and Hane",12,10:41 PM,6,5
+81,"Deckow, Turner and Farrell",23,1:59 PM,1,4
+82,Jenkins and Sons,27,7:03 AM,9,1
+83,Rutherford and Sons,8,4:33 PM,7,3
+84,Carter-Corwin,9,7:18 AM,1,1
+85,Mills and Sons,17,10:16 AM,10,2
+86,Volkman LLC,22,4:17 PM,1,2
+87,"Swift, Donnelly and Bernhard",10,9:28 PM,2,1
+88,"Bruen, Kshlerin and Beahan",22,9:19 AM,5,2
+89,"Bogan, Jones and Little",10,8:26 AM,6,2
+90,"Ebert, Metz and Roberts",20,9:17 PM,5,2
+91,"Gottlieb, Waelchi and Denesik",24,10:16 AM,4,2
+92,Veum-Leffler,23,8:54 PM,2,4
+93,Toy-Stracke,20,4:49 PM,9,5
+94,Hermiston-D'Amore,9,8:37 PM,9,1
+95,"Altenwerth, Padberg and Strosin",17,8:50 AM,6,4
+96,Wintheiser-Kirlin,25,10:22 PM,1,2
+97,Collier-Romaguera,22,7:12 PM,10,3
+98,Cummings Group,7,3:56 PM,9,2
+99,Lowe Group,30,7:07 AM,10,4
+100,Bogisich Inc,14,3:41 PM,10,3
+101,Bode Inc,19,6:50 PM,9,1
+102,Gusikowski LLC,22,3:20 PM,2,3
+103,"Leuschke, Larson and Goodwin",19,4:27 PM,5,2
+104,Huel-Gleason,11,9:38 AM,2,4
+105,Doyle and Sons,18,5:48 PM,4,2
+106,Lesch-O'Keefe,26,4:36 PM,3,5
+107,"Halvorson, Schmeler and Effertz",10,7:47 AM,9,5
+108,"Zemlak, Ruecker and Kuvalis",19,10:25 AM,4,1
+109,"Daniel, Kling and Graham",28,9:21 PM,7,4
+110,Zulauf Group,27,1:56 PM,2,2
+111,Wuckert-Gleichner,15,11:33 AM,5,3
+112,Torphy LLC,15,7:35 AM,7,2
+113,Sanford-Kessler,29,9:41 PM,1,5
+114,Bahringer-Gutkowski,27,9:04 PM,7,5
+115,Rau and Sons,8,9:53 PM,8,4
+116,Swaniawski Inc,30,2:52 PM,7,2
+117,"Carroll, Kozey and Dooley",17,2:29 PM,5,1
+118,"VonRueden, Runte and Kunde",9,7:34 PM,10,3
+119,Bahringer-Towne,28,3:50 PM,4,2
+120,"Reynolds, Reilly and Herzog",7,7:29 AM,2,2
+121,"Legros, Simonis and Denesik",12,2:52 PM,5,4
+122,Howell Inc,9,5:46 PM,2,5
+123,Boehm Inc,22,6:08 PM,1,1
+124,"Purdy, Hansen and Mayert",11,10:44 PM,2,3
+125,Ward and Sons,13,11:44 AM,3,5
+126,Predovic-McClure,21,1:31 PM,4,5
+127,Thiel-Kunze,5,3:10 PM,6,1
+128,"Baumbach, Daniel and Fay",7,9:13 PM,2,3
+129,"Erdman, Schultz and Heidenreich",19,3:40 PM,4,5
+130,"Schaden, Torphy and Hartmann",9,9:37 AM,7,4
+131,Conroy LLC,29,12:40 PM,1,4
+132,"Windler, Larkin and Ullrich",6,4:21 PM,2,1
+133,Wintheiser-Weissnat,20,3:12 PM,4,3
+134,"Monahan, Sipes and Osinski",23,10:27 PM,8,3
+135,Dietrich-Bednar,25,10:51 AM,6,5
+136,Connelly-Hegmann,13,4:09 PM,9,3
+137,"Heller, Larson and Hills",27,5:47 PM,4,1
+138,Lockman LLC,11,8:56 AM,7,2
+139,Wolff and Sons,7,3:58 PM,6,3
+140,Olson-Abbott,8,7:49 PM,5,2
+141,Friesen-Paucek,6,1:51 PM,10,4
+142,Schneider-Kuhlman,13,8:42 AM,3,2
+143,"Stokes, Boehm and Kuhlman",29,3:52 PM,2,3
+144,"Johnson, Stroman and Swift",27,8:59 AM,5,1
+145,Schneider-Zboncak,25,2:41 PM,7,4
+146,"Cummerata, Gleason and Hane",28,9:17 PM,6,2
+147,Dicki-Lakin,23,12:46 PM,3,4
+148,Stark and Sons,5,2:10 PM,6,1
+149,Nitzsche LLC,13,7:45 PM,3,4
+150,Reichel-Schuppe,6,11:28 AM,5,4
+151,Kub-Witting,7,12:45 PM,3,2
+152,"Streich, Collier and Cartwright",30,9:46 PM,10,3
+153,Friesen LLC,5,10:21 AM,4,2
+154,Gutkowski-Reinger,8,6:24 PM,2,1
+155,"Kreiger, Oberbrunner and Green",27,9:32 PM,5,5
+156,"Hegmann, Marks and Zemlak",13,2:46 PM,10,1
+157,Schulist and Sons,28,12:27 PM,8,4
+158,"Aufderhar, Vandervort and Zulauf",20,10:37 AM,4,3
+159,Kerluke and Sons,26,10:56 AM,10,4
+160,Kunze-Homenick,29,12:41 PM,8,3
+161,"Daniel, Satterfield and Hills",28,12:31 PM,2,3
+162,"Kihn, Legros and Bartoletti",11,8:04 PM,9,3
+163,"Senger, Lesch and Crona",22,6:33 PM,7,5
+164,Hoppe-Flatley,28,11:25 AM,3,4
+165,"Sanford, Fay and Hammes",9,8:07 AM,1,4
+166,"Turcotte, Dickens and Weissnat",11,10:19 PM,7,5
+167,Considine Inc,20,5:36 PM,7,3
+168,Leannon-Barrows,10,6:36 PM,8,1
+169,Maggio-Smith,25,7:24 PM,3,4
+170,Crooks-Hammes,15,7:35 PM,6,2
+171,"Ruecker, Homenick and Lueilwitz",17,9:35 AM,2,2
+172,Emmerich-Green,23,7:12 AM,9,2
+173,Rodriguez-Balistreri,18,12:42 PM,2,4
+174,Toy LLC,17,7:38 PM,4,1
+175,Willms Group,21,1:55 PM,1,3
+176,Carter-Collins,6,12:02 PM,8,3
+177,Jerde-Glover,21,5:09 PM,1,4
+178,"Kihn, Leuschke and Treutel",9,7:24 PM,4,1
+179,Weimann-Hackett,18,9:22 PM,4,3
+180,Von Group,8,10:45 PM,2,5
+181,"Gulgowski, Crist and Morissette",10,10:34 PM,10,3
+182,Hegmann Inc,24,8:48 PM,6,3
+183,Dicki-Hermiston,17,6:11 PM,8,5
+184,"Gottlieb, Larson and Howe",25,4:57 PM,1,1
+185,Hermiston-Lebsack,20,9:21 AM,3,4
+186,"Ortiz, Conn and Larkin",12,12:11 PM,9,1
+187,Pollich-Pfannerstill,16,7:30 AM,2,1
+188,"Franecki, Waelchi and Wolf",17,3:04 PM,6,4
+189,"Gerhold, Spinka and Raynor",26,7:09 PM,5,5
+190,Feil-Hessel,30,3:54 PM,3,1
+191,Grady-Schimmel,26,3:11 PM,6,1
+192,"Reynolds, Lakin and Rutherford",7,9:56 PM,8,1
+193,"Stark, Shanahan and Ullrich",11,9:03 PM,5,2
+194,Hermann LLC,11,4:43 PM,1,1
+195,Tremblay-Daniel,13,7:26 AM,8,2
+196,"Labadie, Zieme and Champlin",13,6:34 PM,8,3
+197,Moen Group,6,10:23 AM,4,5
+198,Prosacco-Block,25,12:04 PM,9,2
+199,Waters and Sons,16,6:57 PM,1,5
+200,King Group,26,6:59 PM,10,4
+201,Mann-Murazik,15,9:35 PM,7,4
+202,"Gorczany, Sauer and Parker",7,12:05 PM,7,5
+203,Bahringer Group,9,7:56 AM,3,5
+204,Friesen-Schmitt,7,8:55 PM,8,1
+205,Gleichner-Champlin,12,3:18 PM,8,3
+206,"Russel, Conroy and Lesch",7,9:25 PM,2,4
+207,"Von, Wintheiser and Batz",19,2:17 PM,5,5
+208,O'Conner Inc,7,3:07 PM,5,3
+209,Wilderman-Kub,29,8:23 PM,10,1
+210,"Ward, Anderson and Lindgren",15,1:37 PM,10,5
+211,Adams-Runolfsdottir,7,3:41 PM,9,5
+212,Kemmer-McClure,21,6:58 PM,1,3
+213,Quitzon-Olson,7,3:47 PM,5,5
+214,Wunsch LLC,14,3:48 PM,5,2
+215,Hickle Group,22,10:03 AM,4,3
+216,Hammes-Becker,21,4:36 PM,4,3
+217,Lynch-Dicki,19,2:14 PM,8,1
+218,Lind Inc,8,2:10 PM,8,3
+219,"Schmitt, Keebler and Gusikowski",13,11:13 AM,9,3
+220,Labadie-Reynolds,11,5:34 PM,6,4
+221,"Champlin, Dicki and Hudson",21,6:35 PM,4,3
+222,"Nicolas, Kiehn and Lesch",13,9:33 AM,6,1
+223,Bauch-Swift,25,7:30 PM,3,4
+224,Stroman Group,30,8:45 AM,1,1
+225,Howell Group,16,2:19 PM,6,2
+226,"Bechtelar, Rice and Ledner",10,1:26 PM,3,5
+227,Bauch Inc,26,7:15 AM,8,2
+228,Cruickshank-Ullrich,12,6:43 PM,1,5
+229,Kunze Group,14,9:24 PM,10,1
+230,"Rodriguez, Howell and Lynch",13,10:18 PM,9,5
+231,"Wuckert, D'Amore and Lockman",5,11:25 AM,9,3
+232,"Feil, Gerlach and Hackett",20,10:09 AM,7,2
+233,"Ferry, Muller and Sporer",26,11:59 AM,1,5
+234,Conn-Turcotte,14,12:27 PM,9,3
+235,"Durgan, Hermann and Fisher",27,11:11 AM,1,4
+236,Stiedemann and Sons,7,5:58 PM,8,4
+237,"Lang, Stark and Littel",9,8:14 PM,2,4
+238,Emard Inc,16,4:55 PM,10,2
+239,Stanton Group,12,7:33 PM,8,2
+240,Stracke LLC,13,9:28 PM,8,3
+241,Howe-Moen,14,10:15 PM,5,2
+242,Monahan LLC,27,9:20 PM,7,2
+243,"Prohaska, Grimes and Kohler",29,10:48 PM,5,4
+244,Zemlak Inc,28,10:43 PM,1,3
+245,"Rolfson, Wilkinson and Lesch",20,3:55 PM,9,3
+246,Rowe-O'Conner,19,2:54 PM,8,4
+247,"Gislason, Crooks and McLaughlin",7,9:04 PM,7,3
+248,Wolf-Cassin,8,4:26 PM,2,4
+249,Boyle Inc,24,4:41 PM,9,3
+250,Rosenbaum-Boyle,18,4:56 PM,3,2
+251,Rodriguez LLC,22,9:13 PM,9,4
+252,Anderson-Mosciski,25,6:13 PM,7,5
+253,Braun-Olson,30,1:57 PM,7,4
+254,Lueilwitz-Gottlieb,23,7:08 PM,10,5
+255,Kirlin Group,14,10:15 AM,1,4
+256,Runte and Sons,13,12:07 PM,5,1
+257,Pacocha-Boyer,7,12:36 PM,3,2
+258,Gleichner and Sons,27,9:02 PM,4,4
+259,"Ward, Moore and Monahan",29,9:28 PM,9,2
+260,Lebsack Inc,6,8:55 AM,4,3
+261,West and Sons,26,7:57 PM,10,4
+262,Quitzon-Gulgowski,22,3:57 PM,9,1
+263,Schumm-Heathcote,14,10:04 AM,3,4
+264,Zieme-Okuneva,24,8:30 AM,8,1
+265,"McClure, Welch and Schmidt",18,4:29 PM,9,3
+266,Ebert Inc,27,9:21 PM,7,5
+267,"Pollich, Crona and Wyman",8,7:11 AM,6,1
+268,Lakin-Kreiger,18,10:28 AM,1,2
+269,Lemke-Schaefer,15,9:28 PM,2,3
+270,Lockman Inc,24,11:01 AM,2,3
+271,"Heathcote, Kunde and Crona",8,3:58 PM,6,2
+272,Hoppe Inc,27,1:00 PM,6,3
+273,Hauck and Sons,21,8:58 PM,6,1
+274,Glover LLC,16,3:42 PM,10,4
+275,Torp Group,14,11:47 AM,4,3
+276,"Hettinger, Nolan and Emmerich",9,2:11 PM,2,5
+277,"Keeling, Murray and Hyatt",16,5:41 PM,5,2
+278,Ritchie LLC,5,2:32 PM,10,1
+279,"Brekke, Tremblay and Bartell",17,10:39 PM,7,2
+280,Collins-Greenfelder,6,6:41 PM,7,4
+281,Swift and Sons,7,8:09 PM,9,3
+282,Deckow-Haag,10,11:43 AM,6,3
+283,"Ward, Schimmel and Lehner",30,1:39 PM,7,1
+284,"Mueller, Abshire and Gorczany",27,1:17 PM,7,3
+285,Hills-Kling,25,8:54 PM,1,2
+286,Stroman and Sons,20,11:01 AM,7,2
+287,Veum-Reichert,15,10:28 AM,9,2
+288,"Senger, Abbott and Renner",12,4:45 PM,4,3
+289,Schamberger Inc,9,11:09 AM,10,2
+290,"Jaskolski, Purdy and Blanda",23,1:47 PM,10,4
+291,"Gutkowski, Ledner and Jenkins",17,10:25 PM,8,2
+292,Koepp-Lakin,29,5:58 PM,5,4
+293,Zulauf-Graham,12,12:11 PM,7,1
+294,Erdman Inc,26,10:03 AM,3,4
+295,Schuster-Tremblay,10,3:37 PM,6,2
+296,O'Conner-Parker,20,1:20 PM,3,3
+297,"O'Connell, Wiegand and Zboncak",19,7:46 AM,6,3
+298,"Kuphal, Breitenberg and Schmitt",30,7:01 PM,10,4
+299,Jacobi-Zemlak,8,10:23 AM,6,2
+300,"Leannon, Howell and Goyette",28,10:54 PM,2,1
+301,Ruecker-Glover,12,8:21 AM,8,3
+302,"Wunsch, Schneider and Schiller",27,3:23 PM,3,4
+303,Bergnaum-Block,11,11:44 AM,3,1
+304,Hansen LLC,11,5:09 PM,10,5
+305,"Brekke, Gutmann and Quigley",29,11:37 AM,5,1
+306,"Rohan, Schaefer and Kuhlman",8,9:49 AM,1,2
+307,Lockman Inc,21,1:56 PM,7,3
+308,Wolff-Pagac,14,1:07 PM,6,2
+309,Parisian Group,15,2:18 PM,8,5
+310,Waters and Sons,20,7:54 AM,4,2
+311,Ortiz-O'Kon,15,6:04 PM,2,1
+312,"Schuppe, Romaguera and Davis",25,10:53 AM,6,4
+313,Schuppe-Rutherford,11,1:35 PM,4,1
+314,"Terry, Hammes and Stanton",13,11:03 AM,10,5
+315,Lind-Braun,24,6:58 PM,10,5
+316,"Waelchi, Lindgren and Cruickshank",27,2:46 PM,3,1
+317,Boyer-Wilkinson,20,10:46 AM,2,4
+318,"Thiel, Wolf and Bergnaum",22,11:21 AM,9,3
+319,Huel Group,19,3:33 PM,6,4
+320,Bashirian-Parker,17,9:39 AM,5,5
+321,"Baumbach, Ullrich and Larkin",16,9:22 AM,9,3
+322,Hickle-Cummings,11,5:50 PM,4,3
+323,"Senger, Cummings and Purdy",11,2:49 PM,7,2
+324,"Shanahan, Mills and O'Keefe",21,11:07 AM,1,4
+325,Glover Group,9,7:06 AM,10,4
+326,Botsford and Sons,30,4:19 PM,3,3
+327,"Dare, Hoeger and Emard",25,4:01 PM,3,4
+328,Larkin-Abshire,28,7:12 AM,7,5
+329,Walker-Wuckert,25,10:46 AM,5,3
+330,Schowalter Group,28,9:59 AM,10,2
+331,Konopelski-Murazik,28,5:18 PM,1,2
+332,Howell Inc,12,5:26 PM,6,2
+333,Kuhic Inc,24,9:13 AM,5,3
+334,Borer Inc,12,8:21 PM,3,5
+335,Ferry and Sons,16,6:40 PM,6,1
+336,"Terry, Schinner and Bayer",12,1:18 PM,8,3
+337,Hirthe and Sons,6,8:43 PM,2,1
+338,Marquardt and Sons,6,1:08 PM,6,2
+339,Dach LLC,30,7:50 PM,10,2
+340,Crona LLC,24,3:39 PM,1,5
+341,Olson-Muller,11,2:51 PM,4,1
+342,Wolff and Sons,24,7:18 AM,3,1
+343,Turcotte LLC,11,9:34 PM,6,2
+344,Ziemann-Krajcik,24,4:17 PM,2,3
+345,Marquardt-Torp,22,3:03 PM,2,3
+346,Torp Group,24,10:56 AM,5,4
+347,"Moen, Daugherty and Lang",6,7:32 AM,7,1
+348,"Gerhold, Botsford and Ritchie",24,2:44 PM,8,4
+349,Tillman Group,19,3:11 PM,7,4
+350,Hermiston-Miller,21,5:10 PM,7,2
+351,Cormier-Kihn,13,11:18 AM,2,5
+352,"Hand, Romaguera and Klein",18,7:17 PM,2,1
+353,"Beier, Ward and Sporer",16,7:46 AM,8,1
+354,"Jacobi, Herman and Schmidt",25,6:32 PM,3,4
+355,"Runolfsdottir, O'Hara and Metz",21,5:24 PM,2,2
+356,Koch-Dicki,12,8:06 PM,3,3
+357,Halvorson-Price,9,8:44 PM,5,2
+358,Stehr-Kutch,26,8:59 AM,2,5
+359,"Senger, Kling and Hegmann",29,10:14 PM,6,3
+360,"Bergnaum, Ebert and Reilly",24,9:30 AM,10,1
+361,"Russel, Friesen and Schoen",5,10:27 PM,6,4
+362,Casper-Wiza,17,4:23 PM,8,4
+363,"Kub, Gutkowski and Sporer",17,11:51 AM,4,3
+364,Farrell-Ullrich,10,9:15 AM,8,5
+365,Nikolaus-Beahan,28,2:29 PM,8,2
+366,"Jenkins, Swift and Bartoletti",12,1:23 PM,2,5
+367,Wiegand LLC,18,5:10 PM,8,2
+368,Wilderman Inc,15,6:39 PM,6,4
+369,"Jones, Fahey and Abbott",28,5:38 PM,8,4
+370,"Gorczany, Little and Harris",11,1:13 PM,10,1
+371,Nicolas Inc,29,8:22 PM,5,1
+372,"Collier, Homenick and Goldner",14,5:45 PM,3,3
+373,Rodriguez and Sons,5,8:50 AM,9,5
+374,Hamill LLC,20,12:43 PM,7,5
+375,"Pouros, Stracke and Kerluke",27,3:29 PM,5,2
+376,McLaughlin-Ward,24,7:02 PM,8,5
+377,Koelpin Group,18,10:30 PM,3,3
+378,Lehner Inc,19,3:54 PM,9,5
+379,Bins Group,14,10:52 PM,8,2
+380,Kovacek-Reichert,24,9:41 AM,10,5
+381,Leannon and Sons,7,8:49 PM,2,1
+382,Farrell-Abshire,24,2:14 PM,7,1
+383,"Bergstrom, Moen and Hand",8,3:50 PM,6,5
+384,Schumm Group,9,10:11 AM,10,1
+385,"Paucek, Cassin and Hoeger",29,11:31 AM,3,4
+386,"Kshlerin, Price and Luettgen",23,10:53 AM,2,4
+387,Fisher-Romaguera,26,3:36 PM,4,4
+388,"Fay, Koch and Hartmann",20,5:36 PM,10,4
+389,Abernathy-Wehner,9,2:37 PM,3,4
+390,"Monahan, Keebler and Kunde",16,9:11 PM,1,4
+391,Kihn-Klein,20,10:13 AM,2,1
+392,"Gottlieb, Schaden and Schoen",8,8:57 PM,9,4
+393,"Predovic, Reilly and Casper",25,6:59 PM,1,2
+394,"Waelchi, Cormier and Hackett",22,12:38 PM,6,2
+395,"Mitchell, Lesch and Conn",5,9:50 AM,4,3
+396,"Reinger, Stiedemann and Pfannerstill",27,8:18 PM,6,5
+397,Hartmann LLC,17,3:10 PM,5,4
+398,Ankunding-Bosco,13,12:58 PM,7,5
+399,"Wiza, Flatley and Adams",24,4:34 PM,9,1
+400,Kohler-Schimmel,16,7:22 PM,10,5
+401,Willms-Murray,28,8:33 PM,9,4
+402,"Champlin, Cummerata and King",8,12:50 PM,7,1
+403,Willms and Sons,29,12:34 PM,6,4
+404,"VonRueden, Block and Little",25,8:50 AM,6,4
+405,Mertz LLC,18,3:02 PM,9,4
+406,"Stark, Stark and Schinner",29,10:26 PM,5,1
+407,Harber Inc,15,10:31 PM,1,3
+408,Wilkinson-Metz,19,9:36 AM,1,3
+409,Bayer LLC,18,4:10 PM,3,1
+410,Schiller Inc,26,9:10 PM,10,5
+411,"Zieme, Crona and Hermann",11,7:19 AM,3,4
+412,"Wunsch, Swaniawski and Yost",27,11:01 AM,2,2
+413,Zboncak Group,21,4:36 PM,10,2
+414,"Johns, Ebert and Lesch",17,1:49 PM,7,1
+415,"Orn, Mohr and Hintz",9,10:58 AM,8,5
+416,"Rutherford, Stark and Hegmann",10,10:59 PM,4,2
+417,Windler-O'Kon,26,9:15 AM,10,2
+418,Rath and Sons,30,5:01 PM,8,4
+419,"Waelchi, Greenfelder and Lesch",26,9:19 PM,1,1
+420,Will-Veum,14,9:51 AM,2,4
+421,Lesch and Sons,24,9:54 PM,8,2
+422,"Hagenes, Feil and Beahan",11,9:13 AM,7,1
+423,"Cummings, Pfeffer and Roob",22,8:18 AM,3,5
+424,"McKenzie, Schowalter and Dooley",10,5:14 PM,9,4
+425,Jaskolski-Conroy,11,7:52 PM,8,1
+426,"Abernathy, Collins and Parker",30,9:21 PM,6,2
+427,Sanford LLC,18,1:03 PM,10,4
+428,Schumm Inc,20,2:46 PM,6,2
+429,Roberts Inc,30,9:29 AM,9,1
+430,Quitzon-Brekke,24,5:49 PM,7,1
+431,"Hudson, King and Brakus",29,8:53 PM,10,5
+432,"Satterfield, Brakus and Dach",13,11:09 AM,7,4
+433,Feil-Monahan,27,8:09 AM,3,3
+434,"Jacobs, Nader and Ruecker",8,6:23 PM,9,4
+435,"Romaguera, Schoen and Cole",15,7:29 AM,10,1
+436,Wintheiser-Walker,13,1:55 PM,7,3
+437,"Beatty, Ankunding and Ruecker",11,7:58 PM,2,4
+438,Tremblay Group,25,4:57 PM,3,2
+439,"Rempel, O'Kon and Collins",23,10:56 AM,3,4
+440,Reynolds-Larkin,5,9:12 AM,7,2
+441,Fritsch-Maggio,7,7:09 AM,2,4
+442,Welch Group,8,5:26 PM,3,5
+443,Hane-Franecki,21,11:56 AM,7,5
+444,King-Huel,16,10:20 PM,5,2
+445,Nicolas-McCullough,6,8:59 AM,3,1
+446,"Heidenreich, Rodriguez and McCullough",20,6:36 PM,10,5
+447,Moore Inc,22,12:43 PM,4,5
+448,Effertz Group,16,7:40 PM,10,4
+449,Champlin-Gusikowski,24,11:35 AM,1,3
+450,"Green, Bashirian and Shanahan",25,10:03 AM,4,3
+451,"Kautzer, Fritsch and Dooley",6,11:38 AM,5,4
+452,"Herman, Morissette and Cole",12,12:50 PM,4,3
+453,"Rutherford, Hirthe and Yundt",22,12:38 PM,2,3
+454,"Dickinson, Hudson and Dicki",12,4:18 PM,6,2
+455,Rolfson and Sons,11,9:59 AM,3,4
+456,Grant-Auer,8,10:52 AM,4,3
+457,"Schaefer, Durgan and Jacobson",12,10:22 AM,6,3
+458,Franecki and Sons,25,10:07 PM,2,1
+459,Hegmann-Monahan,28,11:41 AM,5,4
+460,Raynor LLC,22,9:32 AM,1,2
+461,"Streich, Cassin and Heidenreich",7,4:22 PM,8,1
+462,"Considine, Gorczany and Ferry",16,4:57 PM,6,4
+463,Lang Group,20,8:16 PM,8,4
+464,"Mueller, Casper and Gleichner",29,1:28 PM,2,3
+465,Hodkiewicz-Leuschke,5,7:11 AM,1,4
+466,Kuhic-Huels,18,8:53 AM,9,3
+467,"Gerhold, Hirthe and Crooks",28,10:45 PM,3,5
+468,Macejkovic-Kemmer,6,7:35 AM,9,1
+469,Reynolds and Sons,18,6:06 PM,7,4
+470,Brakus Inc,16,5:53 PM,10,3
+471,Kling-Greenfelder,6,7:44 PM,1,3
+472,Kozey Group,15,3:21 PM,3,2
+473,Legros and Sons,18,4:08 PM,6,3
+474,Murazik LLC,27,2:12 PM,1,2
+475,"Sauer, Hintz and Nicolas",7,9:39 PM,6,3
+476,"Steuber, Feeney and Legros",7,11:34 AM,6,4
+477,Koss Inc,18,3:07 PM,4,2
+478,Shields and Sons,26,10:51 AM,8,4
+479,"Kirlin, Paucek and Spencer",16,8:48 AM,3,3
+480,Lueilwitz and Sons,26,9:07 AM,3,5
+481,Stanton Inc,15,9:11 AM,2,1
+482,Hansen Group,24,10:20 AM,3,5
+483,Johns Inc,22,4:23 PM,2,3
+484,McCullough Group,24,8:18 AM,7,1
+485,Baumbach Group,29,12:21 PM,4,2
+486,Hyatt Group,13,3:10 PM,8,3
+487,"Runte, Zieme and Glover",21,8:00 PM,8,2
+488,"Price, Brakus and Anderson",21,8:04 PM,4,1
+489,"Marks, Tillman and Wisoky",28,10:36 AM,3,2
+490,Larkin-Boyle,5,10:33 PM,4,1
+491,Mueller-Green,6,10:26 PM,7,2
+492,Streich Inc,22,8:20 AM,5,1
+493,"Spencer, Mills and Christiansen",13,8:21 AM,1,2
+494,Erdman-Leuschke,13,12:13 PM,1,2
+495,Macejkovic Inc,25,8:52 AM,8,3
+496,O'Kon-Kilback,28,3:38 PM,5,5
+497,Conroy-Dibbert,27,2:35 PM,8,5
+498,Huel Group,7,8:54 PM,7,4
+499,"Pollich, Skiles and Abbott",19,9:23 PM,6,4
+500,McKenzie LLC,12,8:08 AM,5,1
+501,"Paucek, Morissette and Howe",9,4:37 PM,2,5
+502,"Skiles, Bednar and Lang",15,6:46 PM,7,1
+503,Nikolaus-Stamm,5,2:33 PM,6,3
+504,Boyle Group,28,7:36 PM,1,4
+505,Haley Inc,13,4:22 PM,9,1
+506,Wilkinson Inc,28,8:19 PM,5,1
+507,Kirlin Group,24,9:28 PM,6,5
+508,Daniel and Sons,15,5:33 PM,5,5
+509,"VonRueden, Gibson and Raynor",18,10:27 AM,5,5
+510,Collins Group,26,1:13 PM,10,3
+511,Pacocha LLC,7,3:59 PM,8,2
+512,Deckow LLC,25,9:34 PM,4,2
+513,"Nader, Rodriguez and Hagenes",9,8:12 AM,10,1
+514,"Ziemann, Casper and Harber",7,10:39 AM,8,2
+515,Mayert-Donnelly,9,9:26 PM,6,2
+516,Nitzsche and Sons,6,10:45 PM,1,1
+517,"Miller, Towne and Parker",9,6:02 PM,9,1
+518,Vandervort Inc,12,12:05 PM,8,3
+519,Schamberger Group,21,11:52 AM,6,1
+520,"Bailey, Jacobi and Gulgowski",23,8:16 AM,10,4
+521,Skiles and Sons,15,10:02 PM,9,1
+522,Gleichner-Johnson,25,12:57 PM,5,3
+523,Lowe-Hegmann,18,1:49 PM,1,4
+524,Wehner LLC,8,3:56 PM,10,2
+525,Sipes LLC,27,9:27 PM,4,3
+526,"Pfeffer, Runte and Steuber",27,4:02 PM,3,1
+527,"Ward, Hoppe and Anderson",6,9:38 AM,6,1
+528,"Borer, Jacobs and DuBuque",12,7:20 AM,4,4
+529,"Lehner, Wunsch and Kessler",20,8:39 PM,1,1
+530,Dooley LLC,11,8:43 AM,8,3
+531,"Reynolds, Lueilwitz and Witting",27,2:31 PM,5,2
+532,Zemlak-Rosenbaum,7,12:34 PM,9,2
+533,"Swaniawski, Schuppe and Glover",18,10:14 PM,3,2
+534,Kassulke-Pacocha,28,8:44 PM,3,4
+535,"Jakubowski, Ratke and Jerde",29,5:38 PM,1,3
+536,"Schmidt, Reynolds and Tromp",25,9:54 PM,5,5
+537,"Parisian, Schneider and Lueilwitz",17,1:04 PM,6,4
+538,"Kub, Nolan and Brown",25,9:19 PM,2,1
+539,"Kertzmann, Gleason and Becker",18,3:26 PM,9,3
+540,Emard-Torp,29,11:29 AM,8,4
+541,Herzog and Sons,14,1:00 PM,3,5
+542,Turcotte-Cummings,15,1:05 PM,9,4
+543,Wintheiser-Bogisich,13,6:22 PM,8,3
+544,Rodriguez Inc,27,12:23 PM,10,1
+545,"Bartell, Waelchi and Aufderhar",9,11:30 AM,2,4
+546,Hand-Kihn,17,10:12 PM,10,5
+547,Pfannerstill Inc,24,9:17 AM,4,4
+548,Littel and Sons,29,3:38 PM,7,4
+549,"Denesik, Langosh and Kemmer",28,6:33 PM,1,2
+550,Parisian-Hessel,5,9:22 AM,7,1
+551,Ankunding LLC,7,5:38 PM,6,1
+552,Bailey-Cummings,20,4:43 PM,8,3
+553,Swaniawski and Sons,21,10:03 PM,5,4
+554,Weimann and Sons,15,8:28 PM,4,1
+555,Kris Group,13,10:39 PM,4,4
+556,Renner-Braun,26,9:57 AM,6,3
+557,Hoeger Inc,14,9:19 AM,5,3
+558,Hane Inc,10,8:00 AM,6,5
+559,Medhurst-Marvin,17,5:48 PM,5,2
+560,Erdman-Hayes,18,2:21 PM,9,2
+561,Pfannerstill Group,17,8:26 PM,8,5
+562,"Bergnaum, Cruickshank and Parker",10,12:34 PM,4,3
+563,Funk-Bogisich,23,9:28 PM,10,4
+564,Barrows LLC,13,8:33 AM,6,3
+565,"Luettgen, Marvin and Bechtelar",11,8:34 PM,4,3
+566,Rippin-Dicki,15,7:14 AM,5,5
+567,Parisian and Sons,9,8:35 AM,8,5
+568,Schaden and Sons,9,2:38 PM,1,2
+569,Kuhn-Pacocha,23,2:33 PM,4,3
+570,"Langworth, Quitzon and Rath",21,2:12 PM,10,4
+571,"Frami, Marquardt and Satterfield",8,6:42 PM,7,3
+572,Wiza and Sons,26,10:33 AM,3,1
+573,Kemmer LLC,18,7:13 AM,5,4
+574,"Rolfson, Wintheiser and Johnson",28,3:47 PM,7,3
+575,"Will, Johnston and Effertz",8,3:18 PM,6,3
+576,Batz LLC,11,1:18 PM,3,5
+577,"Schroeder, Torp and Hilpert",28,3:22 PM,8,1
+578,Walter-Kub,12,5:01 PM,6,2
+579,Stamm Inc,16,8:44 PM,2,1
+580,Stark-Gibson,19,5:30 PM,10,3
+581,Wilkinson LLC,13,5:28 PM,4,5
+582,O'Keefe-Homenick,20,3:16 PM,7,2
+583,Stoltenberg Group,29,5:04 PM,10,3
+584,Nikolaus-Grady,6,3:57 PM,5,3
+585,Homenick LLC,28,10:08 AM,10,3
+586,Thiel-Schumm,26,4:44 PM,6,2
+587,Jakubowski and Sons,23,1:27 PM,5,1
+588,Farrell LLC,8,5:15 PM,9,1
+589,Nicolas-Brown,21,2:09 PM,5,2
+590,Okuneva Inc,5,2:51 PM,10,3
+591,Ryan LLC,28,11:43 AM,1,5
+592,Cole-Ziemann,28,1:33 PM,8,2
+593,"Pouros, Crooks and Kuhic",16,7:56 AM,3,4
+594,"Howell, Howe and Reynolds",28,5:23 PM,10,4
+595,Gibson-Gorczany,16,12:05 PM,6,5
+596,"Kozey, Cruickshank and Jaskolski",15,8:56 AM,7,1
+597,DuBuque Group,8,8:14 AM,1,2
+598,Kovacek LLC,18,1:24 PM,6,3
+599,Schamberger-Streich,26,1:52 PM,10,2
+600,Christiansen LLC,22,9:07 AM,2,4
+601,"Kertzmann, Becker and Greenholt",19,7:55 PM,3,4
+602,"McGlynn, Cruickshank and Hodkiewicz",9,1:34 PM,2,2
+603,Mueller LLC,13,11:27 AM,1,1
+604,"Turner, Rempel and Leannon",22,9:20 AM,9,1
+605,"Mante, Cormier and Price",13,10:00 PM,6,4
+606,Wolf-Quigley,12,7:41 PM,1,1
+607,"Lehner, Koch and Langworth",15,11:45 AM,2,2
+608,D'Amore Group,20,4:46 PM,2,4
+609,Konopelski LLC,20,12:16 PM,5,5
+610,"Jacobs, Bechtelar and Balistreri",17,9:31 PM,5,4
+611,"Bailey, Mills and Bechtelar",17,7:15 PM,3,1
+612,"Kunze, Jakubowski and Schmitt",25,8:41 AM,1,1
+613,Bergstrom LLC,16,2:37 PM,2,3
+614,Ruecker-Bogan,12,7:07 AM,9,5
+615,Cormier-Purdy,29,1:49 PM,3,1
+616,"Cummerata, Pagac and Turcotte",15,3:25 PM,8,2
+617,"Glover, Emmerich and Ritchie",6,5:37 PM,2,3
+618,"Rogahn, Okuneva and Schmidt",5,8:27 AM,7,2
+619,Ward-Bahringer,16,10:57 PM,2,5
+620,"Legros, Boehm and Feil",24,12:20 PM,5,2
+621,"Lubowitz, Rempel and Rice",10,9:54 AM,7,4
+622,McGlynn-Reilly,10,10:50 AM,2,1
+623,Bogisich LLC,16,10:25 PM,5,2
+624,Huels Inc,30,2:31 PM,1,2
+625,"Schiller, Lowe and Ebert",7,8:13 AM,8,2
+626,"Ward, Green and Dietrich",20,2:00 PM,3,3
+627,Herman-Lebsack,23,10:43 AM,10,3
+628,Gerlach-Cruickshank,28,6:10 PM,1,3
+629,Cole-Stracke,21,11:40 AM,1,4
+630,Stiedemann and Sons,16,1:16 PM,2,2
+631,Pollich-Krajcik,29,5:21 PM,3,2
+632,Kulas-Runolfsdottir,27,8:16 AM,8,2
+633,Ritchie-Schroeder,27,7:40 AM,2,1
+634,Mosciski LLC,22,7:35 AM,4,3
+635,"Bartell, Parisian and Walker",23,2:32 PM,3,3
+636,Hauck-Torp,25,6:23 PM,3,5
+637,"Cartwright, Durgan and Schroeder",9,9:49 PM,7,1
+638,Carroll Group,16,8:57 AM,10,2
+639,Howe-Jacobson,29,10:37 PM,7,3
+640,Schmeler-Barton,10,8:21 PM,7,2
+641,Hagenes and Sons,25,10:17 PM,7,2
+642,Boyer Inc,28,8:42 AM,1,1
+643,Klocko-MacGyver,21,2:37 PM,1,4
+644,"Beahan, Gislason and Von",18,9:51 AM,3,2
+645,Bergnaum LLC,15,12:29 PM,4,2
+646,"Carroll, McLaughlin and Metz",22,7:20 PM,1,2
+647,Daniel Inc,19,6:59 PM,10,1
+648,Renner-Pfeffer,24,10:26 AM,3,1
+649,Metz-Tromp,15,10:04 PM,9,4
+650,Little-Conroy,18,11:23 AM,8,2
+651,"Schinner, Lubowitz and Deckow",7,12:21 PM,6,1
+652,Jacobi Inc,14,2:28 PM,9,2
+653,Upton-Herzog,10,7:42 PM,1,5
+654,"Connelly, Rogahn and Dibbert",15,3:32 PM,7,1
+655,O'Conner Inc,20,6:52 PM,1,5
+656,"Glover, Schiller and Auer",21,10:16 AM,4,4
+657,Spencer-Wiegand,5,7:36 AM,5,2
+658,Hayes LLC,8,10:42 PM,10,1
+659,Koepp-Walsh,20,2:41 PM,6,5
+660,"Spinka, Kuphal and Upton",30,1:18 PM,3,4
+661,Streich-Gleason,5,8:15 AM,7,4
+662,"Bradtke, Schoen and Becker",14,10:05 PM,4,2
+663,Abernathy Inc,14,4:06 PM,5,4
+664,Kub-Friesen,26,3:06 PM,6,3
+665,Zboncak-Wolf,11,10:12 AM,3,2
+666,Hoppe Inc,26,9:44 PM,10,5
+667,"Romaguera, Blick and Gleason",15,2:35 PM,10,1
+668,Wisoky and Sons,14,9:02 AM,4,3
+669,"Weissnat, Schultz and Blanda",26,10:18 AM,10,2
+670,"Nicolas, Schroeder and Kuphal",11,6:49 PM,9,3
+671,Toy-D'Amore,29,2:38 PM,5,4
+672,Altenwerth and Sons,20,9:25 PM,4,5
+673,Howe-Kiehn,8,10:48 AM,4,2
+674,Nienow and Sons,27,5:31 PM,6,3
+675,"West, VonRueden and Torp",22,9:56 AM,2,1
+676,Schmitt-Bahringer,18,8:44 PM,4,2
+677,Dach Inc,29,2:14 PM,4,3
+678,"Waters, Runolfsdottir and Lindgren",5,9:14 PM,1,4
+679,Lebsack and Sons,30,5:26 PM,5,5
+680,Howe LLC,26,1:24 PM,8,3
+681,Walter-Brekke,7,5:12 PM,10,3
+682,Raynor-Bode,10,6:47 PM,7,4
+683,Hudson Inc,26,10:22 AM,9,1
+684,Buckridge-Emmerich,11,7:34 AM,9,5
+685,"Stehr, Hudson and Fritsch",22,5:20 PM,3,2
+686,Kuhic and Sons,15,9:44 PM,10,4
+687,Turcotte and Sons,7,11:33 AM,1,2
+688,"Nienow, Wehner and Cronin",22,2:16 PM,5,3
+689,Hintz Inc,5,3:08 PM,1,1
+690,Swaniawski LLC,7,12:00 PM,5,3
+691,Upton Inc,15,9:51 PM,4,3
+692,Lesch-Wunsch,25,5:17 PM,9,2
+693,Reichel Group,14,9:48 PM,10,3
+694,"Borer, Mann and Towne",9,4:55 PM,3,5
+695,Dickens and Sons,14,12:44 PM,4,3
+696,Donnelly and Sons,12,12:15 PM,9,4
+697,"Durgan, Bergstrom and Schiller",14,5:16 PM,7,3
+698,Johnston Inc,23,12:20 PM,7,4
+699,Deckow LLC,14,1:43 PM,4,3
+700,Herzog LLC,12,8:56 AM,7,4
+701,"Kuvalis, Emard and Heidenreich",22,11:18 AM,3,5
+702,Powlowski-Rohan,19,1:06 PM,6,3
+703,Blick-Keebler,10,7:04 AM,2,1
+704,Lindgren LLC,16,10:04 PM,9,1
+705,Green LLC,22,5:41 PM,3,1
+706,Corkery and Sons,15,4:46 PM,1,4
+707,Cassin-Maggio,25,10:55 PM,2,4
+708,Jacobson-Hammes,16,10:17 AM,10,3
+709,Erdman-Shanahan,26,3:06 PM,2,5
+710,"Littel, Spencer and Senger",16,11:46 AM,4,3
+711,Champlin-Ullrich,25,1:24 PM,6,3
+712,"Lockman, Lang and Gutmann",21,10:29 AM,7,2
+713,Legros-Bogisich,17,9:42 PM,4,4
+714,Hintz-Johnston,6,11:32 AM,7,4
+715,Marquardt and Sons,15,8:35 PM,3,5
+716,"Kris, Hills and Tillman",23,8:16 PM,7,2
+717,"Erdman, Bode and Sipes",25,7:32 PM,3,5
+718,Hahn-Stark,19,12:35 PM,10,5
+719,"Hickle, Casper and Pfeffer",29,2:55 PM,2,3
+720,"Glover, Leuschke and Dickinson",12,4:21 PM,3,3
+721,Hintz-Dare,28,8:41 PM,4,1
+722,Doyle-Hintz,18,7:23 AM,4,3
+723,"Larson, Schoen and Beatty",25,4:41 PM,7,2
+724,Kreiger-Weissnat,24,6:48 PM,3,3
+725,Cummings-Schowalter,30,1:46 PM,4,2
+726,Harris and Sons,22,7:46 PM,2,1
+727,Breitenberg-Grady,26,6:42 PM,8,3
+728,"Moen, Grady and Maggio",24,9:00 PM,10,4
+729,Streich-Ruecker,27,10:25 PM,5,3
+730,"Shanahan, Haley and Ullrich",27,9:16 PM,1,1
+731,Rogahn-Macejkovic,20,8:30 AM,6,2
+732,Wilkinson-Thiel,14,4:07 PM,3,4
+733,"Torp, Parker and Mraz",16,9:52 AM,3,5
+734,Murphy LLC,14,10:56 PM,9,2
+735,Runte-Gislason,22,5:06 PM,9,5
+736,Crooks-Lakin,17,8:42 PM,7,1
+737,"Koepp, Kunde and Balistreri",18,12:49 PM,7,2
+738,Treutel LLC,20,2:31 PM,3,2
+739,Hammes and Sons,20,8:51 PM,8,5
+740,Rice-Jerde,11,11:07 AM,6,3
+741,Okuneva Inc,27,9:00 AM,7,5
+742,Schneider LLC,27,8:54 PM,2,2
+743,Leannon-Cronin,8,9:23 PM,3,3
+744,Runte-Johnston,23,10:06 AM,3,4
+745,"Rodriguez, Kuhlman and Kirlin",5,7:17 PM,7,1
+746,Hansen-Hoeger,18,11:04 AM,5,5
+747,"Wunsch, Connelly and Kuhic",17,12:11 PM,4,1
+748,Leuschke-Barrows,23,8:01 AM,10,3
+749,McCullough-Hessel,9,8:23 AM,6,3
+750,Bauch Inc,14,10:26 PM,5,1
+751,Schowalter and Sons,14,10:20 AM,3,2
+752,"Corwin, Treutel and Bednar",8,9:29 AM,6,3
+753,"Cruickshank, Towne and Haley",15,8:58 AM,3,1
+754,"Crist, Kuhic and Morissette",29,9:01 PM,5,2
+755,"McCullough, Koepp and Dach",27,11:50 AM,7,1
+756,"Goodwin, Reichel and O'Connell",30,10:11 AM,9,5
+757,Wilkinson Group,18,7:04 PM,4,1
+758,Kuhlman Group,27,10:04 AM,3,3
+759,Schmeler Inc,25,4:44 PM,5,1
+760,Miller and Sons,8,12:46 PM,4,4
+761,Kling and Sons,14,6:03 PM,1,1
+762,Abernathy Group,9,2:35 PM,6,3
+763,"Schulist, Willms and Metz",24,8:43 AM,6,5
+764,"Reinger, Adams and Wunsch",17,5:05 PM,1,3
+765,Denesik-Pfeffer,12,12:39 PM,5,5
+766,Cruickshank-Block,18,10:22 PM,9,3
+767,Macejkovic Group,24,8:52 AM,4,3
+768,"Nicolas, Jast and Schuppe",29,9:58 AM,4,3
+769,"Ward, O'Kon and Schoen",9,8:47 AM,3,2
+770,"Breitenberg, Yost and Kshlerin",9,4:06 PM,9,3
+771,D'Amore-Abernathy,20,5:36 PM,5,5
+772,Leffler-Borer,13,6:55 PM,10,3
+773,Wilkinson-Daniel,10,8:12 PM,9,2
+774,Hirthe-Aufderhar,9,11:18 AM,1,1
+775,"Mann, Cummerata and Balistreri",8,1:50 PM,4,3
+776,Howe LLC,30,9:02 AM,9,3
+777,Gusikowski Inc,9,7:04 PM,10,4
+778,Brakus Inc,21,5:05 PM,1,4
+779,Breitenberg-Leuschke,5,12:35 PM,3,1
+780,Wiegand Inc,29,7:52 AM,2,1
+781,Stark-Hamill,5,1:09 PM,4,3
+782,Jast and Sons,20,11:04 AM,5,2
+783,Wintheiser-Schaefer,30,9:11 AM,1,4
+784,Goodwin-Jerde,8,5:30 PM,2,5
+785,"Heller, Lindgren and Schuppe",6,5:10 PM,9,4
+786,Corwin-Effertz,22,8:10 PM,6,4
+787,Adams and Sons,17,9:42 AM,1,1
+788,"Larson, Hodkiewicz and Schmidt",17,3:05 PM,7,5
+789,Lang Group,14,4:26 PM,5,3
+790,Larson-Lang,5,7:52 AM,8,4
+791,"Simonis, Jacobi and Turcotte",30,3:05 PM,1,4
+792,"Tremblay, Blanda and Ullrich",20,10:53 AM,9,2
+793,Emmerich-Keebler,25,1:45 PM,6,2
+794,"Beier, Hansen and Crooks",12,12:24 PM,5,4
+795,Christiansen-MacGyver,9,9:47 AM,2,1
+796,"Streich, Ankunding and Fadel",5,5:27 PM,3,4
+797,Robel-Flatley,16,6:16 PM,1,5
+798,Hessel-Jenkins,27,5:15 PM,2,2
+799,Von Inc,24,9:04 AM,6,4
+800,Moore Group,12,9:42 AM,2,5
+801,Cassin-Konopelski,7,8:01 AM,2,4
+802,Schmidt Inc,18,6:30 PM,3,3
+803,"Kling, Casper and Olson",11,12:30 PM,10,1
+804,"Pacocha, Ebert and Pfeffer",20,6:34 PM,8,2
+805,Roob-Legros,29,1:06 PM,3,3
+806,Green and Sons,9,10:08 AM,3,4
+807,Heathcote Inc,20,9:20 PM,3,1
+808,Howell Group,9,7:25 AM,6,1
+809,Green-Keeling,30,8:06 PM,8,5
+810,"Herzog, Huel and Pfannerstill",18,12:12 PM,10,4
+811,Lowe-Fay,10,6:42 PM,7,1
+812,Johns and Sons,22,8:20 PM,5,4
+813,Powlowski Group,16,8:55 AM,2,3
+814,"Green, Douglas and Schultz",14,4:13 PM,9,2
+815,"Howell, Mertz and Bailey",11,10:04 AM,3,1
+816,Thiel-Hansen,7,2:06 PM,10,1
+817,Berge-Erdman,22,8:25 AM,3,5
+818,McClure Inc,20,5:40 PM,1,3
+819,Durgan LLC,23,6:07 PM,4,3
+820,Zulauf LLC,30,7:39 PM,8,5
+821,Dietrich-Metz,24,7:33 PM,6,1
+822,Romaguera-Hayes,5,8:09 AM,2,4
+823,Mosciski and Sons,15,8:45 PM,4,1
+824,"Yundt, Metz and Weimann",7,1:07 PM,5,2
+825,"Lesch, Muller and Haley",7,10:02 PM,10,1
+826,Satterfield LLC,13,8:51 AM,8,2
+827,Kreiger-Luettgen,22,11:56 AM,9,2
+828,Volkman-Steuber,21,3:40 PM,8,2
+829,Gulgowski-Carroll,18,2:06 PM,9,5
+830,"Orn, King and Cormier",15,9:00 PM,3,2
+831,Gleichner-Romaguera,17,10:17 AM,1,4
+832,"King, Ullrich and Thompson",12,6:26 PM,10,2
+833,"Skiles, Lueilwitz and Robel",17,12:53 PM,9,2
+834,Paucek-Breitenberg,12,5:13 PM,1,3
+835,Bogan Inc,11,8:35 AM,6,1
+836,Muller Inc,25,3:29 PM,1,5
+837,Lakin LLC,10,6:31 PM,1,1
+838,"Kiehn, Bins and Corkery",14,11:01 AM,1,2
+839,Abbott-Kuvalis,5,7:33 AM,4,3
+840,"Sawayn, Ullrich and Beatty",18,10:48 PM,3,3
+841,Larkin-Bayer,27,1:10 PM,7,4
+842,"Botsford, Prosacco and Murphy",30,8:10 PM,6,2
+843,Rau and Sons,21,1:07 PM,1,2
+844,Oberbrunner-Miller,6,1:51 PM,4,3
+845,Littel Group,12,10:44 AM,6,4
+846,"Douglas, Lakin and Kerluke",18,3:52 PM,10,2
+847,Lebsack-Bernier,11,1:46 PM,2,1
+848,Hoppe Inc,5,9:35 PM,4,4
+849,"Borer, Douglas and Kautzer",18,7:06 PM,5,5
+850,"Gerlach, Lynch and Rogahn",14,5:22 PM,8,2
+851,Volkman LLC,8,10:20 PM,2,3
+852,Grimes Group,24,8:39 PM,8,2
+853,Bartoletti-Jacobs,20,7:26 PM,10,4
+854,"Barrows, Spinka and Stoltenberg",23,8:10 PM,3,1
+855,Block-Beier,28,8:24 AM,2,2
+856,Krajcik Group,16,6:25 PM,6,2
+857,"Donnelly, Breitenberg and Botsford",30,6:51 PM,6,5
+858,"Barton, Langosh and Tromp",19,5:51 PM,6,2
+859,Herzog Group,16,6:29 PM,6,5
+860,Kerluke-Jerde,10,8:17 PM,2,3
+861,Blick LLC,13,4:19 PM,9,3
+862,Mitchell-Crooks,28,6:08 PM,8,5
+863,MacGyver-Kuhic,24,10:35 AM,8,3
+864,"Torp, Heathcote and Hagenes",16,9:11 PM,7,3
+865,Hayes-Wehner,28,5:12 PM,2,4
+866,Streich Group,22,4:44 PM,8,4
+867,"Stokes, Sawayn and Windler",6,9:46 AM,5,5
+868,"Bergnaum, Brown and Cummings",17,4:43 PM,8,5
+869,"Kautzer, Bernier and Mosciski",13,9:08 AM,10,1
+870,Crona Group,25,7:03 AM,7,2
+871,"Ankunding, Walter and Schumm",29,4:20 PM,5,4
+872,"Murazik, Bins and Kilback",19,9:16 AM,1,5
+873,Klein Group,6,4:24 PM,1,1
+874,"Hills, Heidenreich and Cassin",9,5:54 PM,5,4
+875,Kunze-Farrell,23,3:22 PM,2,3
+876,"Schoen, Gleichner and Kassulke",25,12:54 PM,6,5
+877,Moen Inc,26,2:58 PM,9,2
+878,Bailey-Purdy,18,7:06 AM,9,3
+879,"Kihn, Goodwin and Waters",8,2:38 PM,10,4
+880,Senger LLC,24,8:55 PM,7,3
+881,Franecki LLC,28,9:39 AM,6,2
+882,Ryan LLC,23,2:46 PM,7,5
+883,"Emmerich, Feest and Homenick",29,3:36 PM,6,3
+884,Simonis-Goldner,9,7:43 AM,6,4
+885,Christiansen-Dare,26,10:36 AM,1,2
+886,"Dickinson, Lang and Sauer",30,6:54 PM,4,3
+887,"Stokes, MacGyver and O'Kon",18,5:32 PM,4,1
+888,"Bahringer, Rolfson and Bahringer",30,4:08 PM,9,5
+889,Hills LLC,26,1:59 PM,9,5
+890,Zboncak Group,18,3:37 PM,4,4
+891,Donnelly-Rice,6,3:03 PM,5,1
+892,Jacobs LLC,19,10:44 AM,5,2
+893,Stamm-McDermott,21,10:23 AM,5,5
+894,Littel Inc,29,8:01 PM,5,1
+895,Olson-Mann,16,1:53 PM,6,3
+896,Hane Group,13,7:10 AM,5,1
+897,Schneider-Kris,13,10:45 PM,9,5
+898,Bogisich and Sons,13,12:32 PM,2,2
+899,Ryan and Sons,23,8:55 PM,10,2
+900,Cremin-Auer,29,10:07 PM,7,3
+901,Hackett Group,12,4:53 PM,3,1
+902,"Price, Cole and Homenick",28,2:47 PM,3,3
+903,Price LLC,16,4:41 PM,5,1
+904,"Lesch, Connelly and Orn",20,9:11 PM,5,4
+905,Heaney-Hagenes,13,10:11 PM,2,1
+906,Orn-Turcotte,13,8:48 AM,8,4
+907,"Goodwin, Berge and Koch",10,11:16 AM,3,2
+908,"Trantow, Considine and Wolff",15,12:57 PM,3,1
+909,Senger Inc,27,5:04 PM,6,3
+910,"Mayert, Pagac and Howell",25,9:16 PM,4,5
+911,"Cummerata, Grady and Trantow",7,7:17 AM,5,1
+912,"Torp, Jenkins and Feest",25,10:25 PM,8,3
+913,Bins and Sons,7,6:36 PM,10,1
+914,Johnson-Schumm,5,6:49 PM,3,1
+915,Dare-Trantow,26,7:28 AM,6,5
+916,Legros-Hermiston,21,10:47 AM,10,5
+917,Walsh Inc,23,7:54 PM,1,5
+918,Grimes-Runolfsdottir,14,5:10 PM,6,4
+919,"Kerluke, Huels and Rau",28,10:57 PM,6,4
+920,Konopelski Inc,12,11:13 AM,7,4
+921,Botsford LLC,25,8:06 PM,4,1
+922,Koelpin Group,18,8:28 AM,10,4
+923,Collins Group,7,6:00 PM,4,4
+924,"Breitenberg, Yost and Ratke",30,12:37 PM,9,2
+925,Emmerich-Larson,11,9:26 AM,6,3
+926,Mayer-Gleason,6,3:39 PM,4,3
+927,"Considine, Farrell and Greenholt",30,8:43 PM,9,4
+928,"Hoppe, Crooks and Langworth",7,6:54 PM,7,2
+929,Ward-Walker,19,8:38 AM,8,1
+930,Rutherford LLC,5,8:34 PM,6,1
+931,Nader LLC,15,1:18 PM,2,2
+932,"Mayer, Schamberger and Kassulke",16,10:30 AM,5,1
+933,"Gibson, Olson and Robel",14,5:05 PM,3,5
+934,Upton-Ledner,11,10:45 PM,8,4
+935,Graham-Schimmel,10,1:50 PM,10,2
+936,Upton-Balistreri,15,5:20 PM,4,1
+937,"Kunde, Hackett and Bailey",12,4:26 PM,5,5
+938,Kirlin LLC,24,10:43 AM,10,5
+939,"Bartoletti, Marks and Pouros",6,7:05 AM,10,3
+940,Schmeler-Lesch,28,6:30 PM,8,2
+941,"Lesch, Wilkinson and Brown",5,10:54 AM,10,3
+942,Boyle-Halvorson,17,9:30 PM,3,5
+943,Paucek-Runolfsson,8,9:49 AM,8,2
+944,"Cassin, Berge and Orn",21,7:51 PM,8,2
+945,Hayes Inc,22,7:26 AM,1,1
+946,"Murphy, Bednar and Miller",11,1:46 PM,4,5
+947,"Huels, Gutmann and Frami",11,2:06 PM,9,1
+948,"McDermott, Schamberger and Balistreri",19,1:51 PM,10,4
+949,Runolfsdottir and Sons,15,8:42 AM,1,1
+950,Haley Inc,13,2:20 PM,4,1
+951,"Halvorson, Frami and Bogisich",29,7:32 PM,7,1
+952,"Rogahn, Feest and Jenkins",7,9:54 PM,1,1
+953,"Cormier, Cassin and Wuckert",24,9:13 AM,9,4
+954,"Roberts, Windler and Hahn",28,9:47 AM,4,3
+955,"Labadie, Schultz and Larkin",18,8:19 AM,8,2
+956,Pacocha Group,10,10:17 AM,1,1
+957,"Connelly, Sawayn and Parker",25,2:16 PM,2,5
+958,"Kilback, Cassin and King",6,6:23 PM,4,2
+959,"Ernser, Feest and Zemlak",10,11:42 AM,5,3
+960,Price-Beatty,5,5:00 PM,2,1
+961,Parisian-Kuphal,10,8:04 AM,2,4
+962,Reynolds-Funk,11,7:51 AM,7,1
+963,Hessel-Lakin,22,12:09 PM,4,2
+964,Kirlin and Sons,20,11:04 AM,6,1
+965,Hagenes Group,30,6:53 PM,8,4
+966,Konopelski-O'Reilly,8,2:00 PM,5,3
+967,Schneider-Gerlach,17,12:00 PM,8,1
+968,"Schaefer, Morar and Konopelski",10,7:02 PM,7,3
+969,Mitchell-Harber,13,11:08 AM,9,4
+970,Ryan Inc,21,10:43 AM,8,1
+971,Reichert and Sons,13,1:40 PM,7,1
+972,Deckow and Sons,27,2:06 PM,5,1
+973,"Langworth, Cartwright and Schoen",12,11:40 AM,8,5
+974,Grant LLC,6,3:15 PM,10,5
+975,Abernathy-Olson,8,9:26 PM,6,5
+976,Torp-Gorczany,20,7:16 PM,4,5
+977,Dooley Inc,16,5:25 PM,1,1
+978,"Lemke, Gutmann and Hauck",20,2:48 PM,8,1
+979,Schuppe Group,14,8:21 AM,5,5
+980,Osinski and Sons,5,8:26 PM,5,5
+981,Grant-Rodriguez,25,3:46 PM,10,4
+982,Dooley-Robel,29,12:40 PM,6,2
+983,"Smitham, Zboncak and Kuhlman",29,5:29 PM,6,2
+984,"Bayer, Hermann and Schiller",8,8:26 PM,2,2
+985,Durgan Group,29,7:57 AM,1,4
+986,"Cruickshank, Wolf and Kerluke",10,6:01 PM,10,2
+987,Willms-Gislason,16,12:48 PM,9,4
+988,Ebert-Kessler,29,7:33 PM,10,3
+989,Ziemann-Cruickshank,8,12:37 PM,3,1
+990,Pouros-Wiegand,25,4:49 PM,9,1
+991,Zboncak Group,20,10:08 AM,3,3
+992,"Jast, Cummings and Fisher",6,4:13 PM,1,4
+993,Denesik Group,30,1:51 PM,10,1
+994,Wisozk-Berge,5,10:47 AM,6,2
+995,"Considine, Kohler and Emard",16,10:14 PM,6,3
+996,Gottlieb Group,29,8:21 AM,6,3
+997,Watsica Group,10,7:52 PM,3,5
+998,"Hahn, Runolfsson and Mohr",28,1:11 PM,2,5
+999,Parisian-Crooks,12,10:04 AM,10,3
+1000,Crooks LLC,6,8:57 AM,7,3

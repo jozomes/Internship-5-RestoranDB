@@ -1,0 +1,501 @@
+korisnikid,GradID,ime,adresa,loyaltycard
+1,5,Bradly,PO Box 82585,TRUE
+2,3,Tomas,Suite 30,FALSE
+3,5,Damien,15th Floor,TRUE
+4,3,Farris,Apt 1234,FALSE
+5,1,Lodovico,Suite 47,TRUE
+6,1,Berkeley,PO Box 25727,TRUE
+7,3,Langsdon,7th Floor,FALSE
+8,2,Kurtis,16th Floor,TRUE
+9,2,Shelden,Apt 1628,TRUE
+10,4,Keelby,Apt 1738,TRUE
+11,4,Grant,Apt 980,TRUE
+12,4,Banky,Suite 36,FALSE
+13,4,Gunther,Suite 63,TRUE
+14,1,Scottie,11th Floor,TRUE
+15,1,Bill,Apt 1138,TRUE
+16,3,Rutger,Suite 79,TRUE
+17,1,Horst,Apt 407,TRUE
+18,3,Ronnie,Apt 45,FALSE
+19,2,Heinrik,Suite 59,TRUE
+20,1,Leeland,6th Floor,FALSE
+21,1,Nathan,10th Floor,FALSE
+22,3,Korey,Room 691,TRUE
+23,5,Aubrey,Apt 1306,FALSE
+24,1,Stinky,Room 1918,FALSE
+25,4,Johan,17th Floor,FALSE
+26,1,Garth,Apt 1337,FALSE
+27,5,Silvio,Apt 662,FALSE
+28,2,Eddie,PO Box 75489,TRUE
+29,1,Adlai,Apt 864,TRUE
+30,3,Melvyn,Apt 457,FALSE
+31,4,Carey,Suite 80,FALSE
+32,4,Sheppard,Room 965,FALSE
+33,1,Menard,Suite 50,TRUE
+34,5,Reinald,Apt 1002,FALSE
+35,5,Linc,12th Floor,FALSE
+36,2,Mackenzie,Suite 39,FALSE
+37,1,Orbadiah,Room 1902,FALSE
+38,2,Ringo,PO Box 75454,FALSE
+39,3,Jammal,Apt 988,FALSE
+40,4,Pattie,Apt 645,FALSE
+41,1,Alva,5th Floor,FALSE
+42,1,Caddric,PO Box 6193,FALSE
+43,2,Launce,Room 191,TRUE
+44,5,Gayle,Room 752,FALSE
+45,5,Mahmud,Suite 86,TRUE
+46,4,Theo,PO Box 13430,TRUE
+47,2,Sibyl,2nd Floor,FALSE
+48,3,Diarmid,PO Box 78850,FALSE
+49,4,Patty,Apt 1786,FALSE
+50,2,Lloyd,Apt 767,FALSE
+51,5,Clemens,PO Box 23050,TRUE
+52,1,Waring,12th Floor,FALSE
+53,5,Art,Suite 63,TRUE
+54,3,Niki,Room 944,TRUE
+55,3,Arch,Apt 1754,FALSE
+56,2,Zachary,Room 1103,FALSE
+57,5,Jecho,Suite 23,FALSE
+58,5,Fitzgerald,8th Floor,FALSE
+59,3,Trstram,5th Floor,FALSE
+60,4,Rees,PO Box 70944,FALSE
+61,3,Klement,PO Box 28755,FALSE
+62,1,Georges,Suite 11,TRUE
+63,3,Delmar,15th Floor,FALSE
+64,5,Reinald,Room 1937,FALSE
+65,3,Mano,Apt 1633,TRUE
+66,3,Victoir,PO Box 12407,FALSE
+67,3,Dillie,Room 1650,FALSE
+68,5,Myrwyn,Apt 1175,FALSE
+69,1,Patton,Room 525,TRUE
+70,2,Dorian,Room 514,FALSE
+71,2,Hakim,8th Floor,FALSE
+72,3,Aguistin,PO Box 78194,TRUE
+73,1,Saw,Apt 355,TRUE
+74,3,Odey,Room 300,TRUE
+75,5,Bobby,Apt 1736,TRUE
+76,2,Fairfax,4th Floor,TRUE
+77,1,Binky,PO Box 98126,FALSE
+78,1,Trey,Room 1009,TRUE
+79,5,Gawen,Apt 1921,TRUE
+80,2,Erin,Apt 1571,TRUE
+81,5,Dewitt,Suite 69,TRUE
+82,3,Marlon,Room 442,TRUE
+83,3,Justin,Suite 82,TRUE
+84,3,Briant,14th Floor,FALSE
+85,4,Jared,Suite 34,TRUE
+86,1,Samuele,2nd Floor,TRUE
+87,4,Filmore,20th Floor,FALSE
+88,1,Jesus,Suite 31,TRUE
+89,4,Haslett,19th Floor,FALSE
+90,2,Yuma,PO Box 75411,FALSE
+91,4,Fitzgerald,12th Floor,FALSE
+92,4,Sanders,10th Floor,TRUE
+93,3,Ulick,6th Floor,TRUE
+94,2,Harp,PO Box 74869,TRUE
+95,1,Tobie,Room 62,FALSE
+96,2,Abdel,Suite 66,FALSE
+97,3,Hill,Apt 334,TRUE
+98,4,Townsend,10th Floor,FALSE
+99,1,Bourke,PO Box 36061,FALSE
+100,4,Wadsworth,Suite 35,TRUE
+101,5,Jermayne,Apt 1448,TRUE
+102,1,Perice,Room 710,TRUE
+103,3,Gustave,Suite 78,FALSE
+104,2,Rolland,Suite 33,FALSE
+105,3,Zebedee,Room 1919,FALSE
+106,3,Jeremie,20th Floor,TRUE
+107,2,Phip,5th Floor,FALSE
+108,4,Zachariah,Apt 820,FALSE
+109,2,Ignacio,Apt 211,FALSE
+110,5,Oren,12th Floor,TRUE
+111,4,Kristos,Room 1047,FALSE
+112,2,Porty,Suite 100,TRUE
+113,4,Conny,PO Box 28026,FALSE
+114,3,Mace,Suite 25,TRUE
+115,2,Jerald,Suite 20,FALSE
+116,4,Sylvester,Room 168,TRUE
+117,2,Anson,Suite 10,TRUE
+118,2,Renault,Room 663,FALSE
+119,1,Ellswerth,PO Box 24412,TRUE
+120,3,Padraig,PO Box 81563,TRUE
+121,4,Dolph,Apt 1671,FALSE
+122,5,Heall,Apt 1758,TRUE
+123,3,Rudy,Suite 78,TRUE
+124,1,Joachim,Apt 1528,TRUE
+125,4,Cesare,Suite 55,FALSE
+126,2,Lemmie,9th Floor,TRUE
+127,3,Worthington,Suite 20,TRUE
+128,3,Sigfried,14th Floor,FALSE
+129,5,Stirling,Apt 39,TRUE
+130,5,Baryram,Room 252,FALSE
+131,2,Nichols,18th Floor,TRUE
+132,1,Hugh,Room 6,TRUE
+133,1,Yorke,PO Box 90283,FALSE
+134,3,Sayers,Room 1960,FALSE
+135,3,Rockwell,PO Box 48966,TRUE
+136,3,Noland,Apt 329,FALSE
+137,5,Clayborn,Room 316,FALSE
+138,2,Murray,Room 1096,TRUE
+139,5,Olenolin,Apt 575,TRUE
+140,5,Benedetto,PO Box 21237,TRUE
+141,5,Farr,1st Floor,FALSE
+142,4,Carmine,PO Box 3450,FALSE
+143,5,King,Suite 88,FALSE
+144,2,Prentiss,Suite 54,FALSE
+145,1,Calhoun,Apt 589,FALSE
+146,4,Gunter,Room 173,FALSE
+147,5,Mikael,Room 246,FALSE
+148,2,Delainey,PO Box 69927,FALSE
+149,3,Townsend,Apt 1774,TRUE
+150,4,Heywood,Apt 1380,TRUE
+151,4,Ulick,PO Box 85136,TRUE
+152,2,Barr,Apt 1938,TRUE
+153,2,Michele,Suite 55,TRUE
+154,3,Mata,Apt 1542,TRUE
+155,2,Basil,Suite 82,TRUE
+156,4,Emmery,Suite 58,FALSE
+157,2,Jeffry,Apt 1054,TRUE
+158,4,Tynan,18th Floor,TRUE
+159,3,Vidovik,3rd Floor,FALSE
+160,3,Geoffrey,Room 959,FALSE
+161,4,Sherwood,Room 1912,FALSE
+162,4,Sergent,20th Floor,FALSE
+163,3,Frans,Suite 85,FALSE
+164,5,Elnar,10th Floor,FALSE
+165,1,Gaby,Room 1694,TRUE
+166,2,Paddie,PO Box 42752,FALSE
+167,4,Dan,Suite 13,TRUE
+168,3,Johnathan,Apt 126,FALSE
+169,1,Sammie,Room 1813,FALSE
+170,4,Sanders,4th Floor,FALSE
+171,5,Garold,PO Box 91361,TRUE
+172,5,Ringo,PO Box 72034,TRUE
+173,4,Ximenez,PO Box 96280,FALSE
+174,4,Zebedee,Apt 488,TRUE
+175,1,Land,Suite 44,TRUE
+176,4,Farlee,Apt 1352,FALSE
+177,5,Quinton,PO Box 2396,FALSE
+178,2,Alastair,16th Floor,FALSE
+179,2,Barris,Suite 66,TRUE
+180,5,Darwin,Suite 16,FALSE
+181,2,Kasper,PO Box 30278,TRUE
+182,4,Nigel,2nd Floor,FALSE
+183,4,Rowney,3rd Floor,TRUE
+184,2,Courtnay,Suite 52,TRUE
+185,4,Jard,Suite 83,FALSE
+186,1,Codi,20th Floor,TRUE
+187,4,Pren,11th Floor,FALSE
+188,3,Kalle,1st Floor,FALSE
+189,5,Lewiss,19th Floor,TRUE
+190,4,Ugo,Room 1595,TRUE
+191,2,Lothario,PO Box 27041,FALSE
+192,5,Darin,Apt 263,FALSE
+193,4,Jonas,14th Floor,FALSE
+194,3,Stanleigh,Suite 79,FALSE
+195,4,Phillip,Room 600,TRUE
+196,3,Adelbert,Apt 1961,TRUE
+197,4,Erny,Suite 24,TRUE
+198,5,Hilario,Room 741,FALSE
+199,2,Hubey,Room 1272,TRUE
+200,1,Dennie,Suite 62,TRUE
+201,5,Matty,Apt 1791,TRUE
+202,2,Bale,Apt 1456,FALSE
+203,2,Leigh,Apt 1191,FALSE
+204,5,Demetrius,3rd Floor,FALSE
+205,1,Parrnell,Suite 32,TRUE
+206,3,Cyrillus,Apt 779,TRUE
+207,4,Piggy,Suite 7,TRUE
+208,3,Donalt,Room 629,TRUE
+209,1,Bart,PO Box 8214,FALSE
+210,4,Matthew,Apt 246,FALSE
+211,3,Dean,Suite 82,FALSE
+212,5,Jacques,Room 1945,FALSE
+213,1,Cull,PO Box 56495,FALSE
+214,4,Richie,Suite 67,TRUE
+215,3,Jerome,PO Box 30918,FALSE
+216,3,Dimitry,5th Floor,FALSE
+217,2,Wolfie,Room 1566,TRUE
+218,5,Norbie,Apt 383,TRUE
+219,3,Hewie,Suite 53,FALSE
+220,4,Wally,Apt 557,TRUE
+221,1,Burr,14th Floor,FALSE
+222,4,Kristoforo,9th Floor,FALSE
+223,4,Dickie,Room 1113,TRUE
+224,5,Shamus,PO Box 44908,TRUE
+225,5,Wendel,Apt 1451,FALSE
+226,3,Wallas,Apt 1412,FALSE
+227,1,Dory,Room 134,FALSE
+228,4,Elvyn,PO Box 40328,FALSE
+229,2,Rolph,PO Box 64171,FALSE
+230,1,Kale,Suite 62,FALSE
+231,3,Benyamin,Apt 755,TRUE
+232,5,Agustin,Apt 331,FALSE
+233,1,Griz,Suite 92,TRUE
+234,1,Miles,Room 1671,TRUE
+235,3,Denny,Suite 10,FALSE
+236,3,Giles,Room 1077,TRUE
+237,1,Nikolos,Suite 49,FALSE
+238,1,Gideon,Room 758,FALSE
+239,2,Delmar,PO Box 19421,TRUE
+240,3,Georgy,Suite 98,TRUE
+241,4,Casar,15th Floor,FALSE
+242,5,Myer,17th Floor,FALSE
+243,1,Chev,PO Box 33531,TRUE
+244,2,Thayne,Apt 588,TRUE
+245,3,Lionello,Room 1864,FALSE
+246,5,Erny,Apt 845,FALSE
+247,4,Cletis,16th Floor,TRUE
+248,1,Justen,15th Floor,TRUE
+249,1,Steffen,PO Box 40408,FALSE
+250,4,Gauthier,4th Floor,FALSE
+251,2,Kincaid,17th Floor,FALSE
+252,4,Monroe,12th Floor,FALSE
+253,5,Falito,Room 122,FALSE
+254,2,Justen,Suite 31,FALSE
+255,1,Sergio,Apt 1830,TRUE
+256,3,Noak,Room 1350,FALSE
+257,2,Bentley,Suite 14,FALSE
+258,1,Nicolas,Apt 811,FALSE
+259,3,Shayne,Suite 86,FALSE
+260,5,Elton,Suite 41,TRUE
+261,2,Chalmers,6th Floor,FALSE
+262,3,Maurizio,Room 1216,TRUE
+263,4,Horacio,Suite 53,TRUE
+264,2,Felix,Apt 920,TRUE
+265,4,Bryn,PO Box 42808,TRUE
+266,3,Wilmer,Room 132,TRUE
+267,1,Hayden,Apt 783,FALSE
+268,3,Alphonse,18th Floor,TRUE
+269,4,Porter,5th Floor,TRUE
+270,2,Orran,PO Box 98811,TRUE
+271,3,Rem,Suite 68,FALSE
+272,1,Prescott,Room 127,TRUE
+273,4,Graeme,10th Floor,TRUE
+274,3,Delmer,PO Box 32951,FALSE
+275,2,Tomaso,Suite 99,TRUE
+276,3,Royce,Suite 71,TRUE
+277,3,Woodrow,Suite 20,FALSE
+278,2,Fraze,Room 1335,FALSE
+279,3,Liam,Room 1610,TRUE
+280,1,Ugo,PO Box 1466,FALSE
+281,4,Marlow,Apt 423,TRUE
+282,5,Gal,Suite 93,FALSE
+283,1,Garey,Room 1155,FALSE
+284,4,Burl,Suite 100,FALSE
+285,3,Eliot,PO Box 12552,TRUE
+286,2,Randie,Suite 38,TRUE
+287,3,Wilburt,Apt 1509,TRUE
+288,1,Dall,Apt 397,FALSE
+289,3,Stan,Suite 4,FALSE
+290,2,Terri,Suite 49,FALSE
+291,5,Joey,PO Box 22712,TRUE
+292,4,Roberto,Apt 1412,TRUE
+293,5,Gregg,Apt 1310,TRUE
+294,1,Ken,PO Box 59535,FALSE
+295,2,Matt,Apt 121,TRUE
+296,2,Jamesy,Apt 835,FALSE
+297,3,Reynolds,PO Box 36158,FALSE
+298,3,Rogerio,20th Floor,FALSE
+299,5,Farlee,14th Floor,TRUE
+300,1,Palmer,Room 90,TRUE
+301,4,Hagen,Apt 871,FALSE
+302,2,Chic,10th Floor,TRUE
+303,4,Fin,PO Box 7283,TRUE
+304,1,Ailbert,10th Floor,FALSE
+305,3,Wilton,Room 1518,FALSE
+306,2,Robinet,PO Box 94863,FALSE
+307,2,Rowen,Suite 74,FALSE
+308,1,Herschel,PO Box 27052,FALSE
+309,5,Clem,Apt 1905,TRUE
+310,5,Craggie,Room 954,FALSE
+311,2,Evelyn,Room 274,FALSE
+312,4,Monte,9th Floor,TRUE
+313,5,Waldo,Suite 13,FALSE
+314,3,Stefano,Room 113,FALSE
+315,3,Chaunce,Apt 792,FALSE
+316,2,Hube,15th Floor,TRUE
+317,4,Nefen,Suite 31,TRUE
+318,3,Wyndham,Suite 50,TRUE
+319,1,Rowan,Apt 1348,FALSE
+320,4,Renado,3rd Floor,TRUE
+321,4,Adolf,Room 124,FALSE
+322,2,Gris,Room 1183,FALSE
+323,3,Baryram,PO Box 21091,TRUE
+324,5,Ase,Suite 100,FALSE
+325,4,Sigfrid,PO Box 80226,FALSE
+326,1,Rowen,Suite 65,TRUE
+327,4,Carlyle,Suite 58,TRUE
+328,3,Phillip,Suite 37,FALSE
+329,2,Kevan,5th Floor,FALSE
+330,1,Augusto,Room 1645,FALSE
+331,2,Francois,Room 605,TRUE
+332,2,Ritchie,5th Floor,FALSE
+333,2,Errol,Room 1285,TRUE
+334,4,Emmy,Apt 54,FALSE
+335,5,Hillel,4th Floor,FALSE
+336,3,Hunfredo,PO Box 56987,TRUE
+337,3,Bill,Room 1972,TRUE
+338,4,Desmund,PO Box 63853,FALSE
+339,4,Wes,PO Box 79341,TRUE
+340,2,Dalston,Apt 222,FALSE
+341,4,Darin,Apt 1073,TRUE
+342,4,Frederigo,Room 1561,FALSE
+343,3,Ruby,13th Floor,TRUE
+344,1,Fergus,Suite 63,FALSE
+345,3,Devland,PO Box 77107,FALSE
+346,4,Kermit,8th Floor,FALSE
+347,4,Garald,PO Box 57047,TRUE
+348,1,Branden,Apt 1811,FALSE
+349,2,Mack,PO Box 48859,FALSE
+350,2,Gerome,Room 1358,TRUE
+351,3,Les,Room 1912,FALSE
+352,1,Brander,11th Floor,TRUE
+353,2,Dexter,Room 1036,FALSE
+354,3,Hoebart,12th Floor,FALSE
+355,2,Hill,Room 1739,FALSE
+356,5,Sumner,PO Box 37341,TRUE
+357,1,Sherm,Room 1598,FALSE
+358,1,Jacobo,Suite 17,FALSE
+359,2,Thorn,Suite 27,TRUE
+360,3,Duky,16th Floor,TRUE
+361,1,Montgomery,Suite 83,FALSE
+362,4,Waylan,Room 374,FALSE
+363,3,Kasper,PO Box 64136,FALSE
+364,2,Sherwood,18th Floor,TRUE
+365,2,Shadow,PO Box 28648,TRUE
+366,4,Patrice,10th Floor,TRUE
+367,1,Sayre,PO Box 6057,FALSE
+368,5,Hector,PO Box 791,TRUE
+369,2,Torey,PO Box 70307,TRUE
+370,3,Sunny,Room 932,TRUE
+371,4,Tedmund,3rd Floor,FALSE
+372,5,Fonz,PO Box 65399,TRUE
+373,1,Myer,Apt 1276,TRUE
+374,3,Ara,PO Box 29756,FALSE
+375,5,Ly,16th Floor,FALSE
+376,5,Toby,7th Floor,TRUE
+377,4,Chrisy,PO Box 5979,TRUE
+378,2,Hallsy,10th Floor,FALSE
+379,5,Sibyl,11th Floor,FALSE
+380,3,Keefer,Suite 98,FALSE
+381,3,Marlon,Apt 808,FALSE
+382,5,Trev,Suite 23,FALSE
+383,2,Bryon,Apt 888,FALSE
+384,1,Nestor,Apt 45,TRUE
+385,5,Alfonso,PO Box 47142,TRUE
+386,4,Stanly,19th Floor,TRUE
+387,2,Addison,PO Box 5947,FALSE
+388,3,Uri,Room 516,FALSE
+389,4,Eli,16th Floor,TRUE
+390,1,Romeo,Suite 43,TRUE
+391,4,Josiah,Room 1459,TRUE
+392,5,Clement,14th Floor,TRUE
+393,1,Thayne,Room 588,FALSE
+394,5,Gage,13th Floor,FALSE
+395,5,Terry,PO Box 89796,TRUE
+396,4,Van,Room 1213,TRUE
+397,4,Osmond,4th Floor,FALSE
+398,4,Onfroi,Suite 83,TRUE
+399,2,Marlon,PO Box 98835,TRUE
+400,4,Sly,PO Box 71672,FALSE
+401,1,Gasparo,Apt 1268,TRUE
+402,5,Andy,PO Box 8179,FALSE
+403,4,Corby,Apt 656,FALSE
+404,4,Borg,Room 1747,TRUE
+405,4,Hewe,Room 615,FALSE
+406,5,Keelby,Suite 40,FALSE
+407,1,Guillaume,Suite 73,TRUE
+408,2,Garvin,PO Box 16084,FALSE
+409,5,Granger,Suite 59,TRUE
+410,4,Jeromy,PO Box 992,FALSE
+411,3,Elsworth,PO Box 80167,FALSE
+412,1,Base,Apt 662,FALSE
+413,3,Stuart,17th Floor,FALSE
+414,2,Mathias,Room 1610,FALSE
+415,1,Perceval,19th Floor,FALSE
+416,3,Eliot,7th Floor,FALSE
+417,5,Trev,Suite 27,TRUE
+418,3,Ulises,PO Box 44920,FALSE
+419,1,Otis,6th Floor,TRUE
+420,5,Riley,Suite 70,FALSE
+421,4,Jefferey,16th Floor,FALSE
+422,3,Neil,PO Box 75032,TRUE
+423,3,Moise,Apt 1252,TRUE
+424,5,Mathian,Room 711,TRUE
+425,3,Ash,Apt 1061,FALSE
+426,2,Sibyl,Apt 897,TRUE
+427,1,Dannie,Apt 1689,TRUE
+428,2,Flemming,PO Box 42986,TRUE
+429,1,Murdock,Room 963,FALSE
+430,2,Buddy,16th Floor,FALSE
+431,2,Flinn,Suite 94,FALSE
+432,2,Mateo,PO Box 15809,FALSE
+433,1,Fabe,Room 1086,TRUE
+434,5,Wakefield,PO Box 10848,FALSE
+435,2,Godfry,Room 1078,TRUE
+436,3,Araldo,Apt 1750,TRUE
+437,3,Cosimo,PO Box 7313,FALSE
+438,1,Hirsch,PO Box 24958,TRUE
+439,1,Owen,PO Box 41037,FALSE
+440,1,Drud,Room 390,TRUE
+441,5,Josiah,Apt 1288,FALSE
+442,4,Windham,Room 1738,FALSE
+443,5,Filbert,Apt 1184,FALSE
+444,1,Salomon,Apt 406,FALSE
+445,1,Fabien,Room 764,FALSE
+446,4,Reginald,PO Box 71658,TRUE
+447,1,Creigh,Room 1404,TRUE
+448,2,Norry,13th Floor,TRUE
+449,4,Rem,Apt 56,FALSE
+450,4,Averill,Suite 67,FALSE
+451,1,Jonah,Apt 30,FALSE
+452,2,Fleming,2nd Floor,TRUE
+453,2,Christoforo,PO Box 84092,FALSE
+454,4,Maynord,18th Floor,FALSE
+455,5,Skipper,Apt 1028,FALSE
+456,1,Pryce,Suite 6,FALSE
+457,1,Kenyon,PO Box 46566,TRUE
+458,1,Brnaby,16th Floor,TRUE
+459,1,Niels,6th Floor,TRUE
+460,1,Angel,PO Box 75550,FALSE
+461,3,Ky,2nd Floor,TRUE
+462,1,Owen,PO Box 5085,TRUE
+463,5,Fransisco,Apt 9,TRUE
+464,5,Lucio,Room 1568,TRUE
+465,3,Oates,Apt 1665,TRUE
+466,1,Reagan,Room 1363,FALSE
+467,4,Wainwright,Apt 1711,TRUE
+468,5,Gabe,Room 928,FALSE
+469,1,Terrence,Room 1312,TRUE
+470,3,Lennie,PO Box 55786,TRUE
+471,2,Ingrim,Apt 570,TRUE
+472,5,Luis,Apt 209,TRUE
+473,2,Byram,Suite 13,TRUE
+474,2,Pace,Apt 1241,TRUE
+475,2,Yurik,2nd Floor,TRUE
+476,1,Germain,Room 336,FALSE
+477,4,Cooper,Suite 99,FALSE
+478,5,Torrence,Suite 42,TRUE
+479,4,Morgan,Apt 168,TRUE
+480,5,Sigfrid,PO Box 86037,FALSE
+481,2,Ogden,PO Box 20020,FALSE
+482,4,Uriel,PO Box 66757,TRUE
+483,1,Garold,Room 989,FALSE
+484,3,Aksel,Suite 79,TRUE
+485,5,Enrique,Room 806,FALSE
+486,4,Dov,Room 1341,TRUE
+487,1,Hadleigh,Suite 36,TRUE
+488,2,Cal,Suite 93,TRUE
+489,2,Iago,19th Floor,FALSE
+490,1,Quintin,PO Box 48956,FALSE
+491,1,Nikita,Room 1175,FALSE
+492,3,Zebadiah,Room 654,TRUE
+493,3,Jarid,Room 1475,TRUE
+494,3,Austin,Suite 97,FALSE
+495,3,Lowell,PO Box 19886,FALSE
+496,2,Torey,PO Box 36277,FALSE
+497,2,Penny,8th Floor,FALSE
+498,1,Brion,Room 457,TRUE
+499,2,Collin,11th Floor,TRUE
+500,3,Ari,Room 1346,TRUE
